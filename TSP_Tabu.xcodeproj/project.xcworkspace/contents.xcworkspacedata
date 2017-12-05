@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../TSP_Tabu/Pea2.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../TSP_Tabu/stdafx.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../TSP_Tabu/stdafx.h">
+   </FileRef>
+   <FileRef
+      location = "group:../TSP_Tabu/TabooQueue.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../TSP_Tabu/TabooQueue.h">
+   </FileRef>
+   <FileRef
+      location = "group:../TSP_Tabu/targetver.h">
+   </FileRef>
+   <FileRef
+      location = "group:../TSP_Tabu/Tsp.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../TSP_Tabu/Tsp.h">
+   </FileRef>
+   <FileRef
+      location = "self:TSP_Tabu.xcodeproj">
+   </FileRef>
+</Workspace>
